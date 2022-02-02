@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sloom99
-- 👀 I’m interested in programming, math and machine learning
+- 👀 I’m interested in programming, math, machine learning, signal processing and communication systems
 - 🌱 I’m currently learning programming and data analysis in Python
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me - feel free to drop me an email at rishikeshsarma_ug@ee.nits.ac.in
